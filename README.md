@@ -5,7 +5,8 @@ Collection of files used to generate [parsec.ro](https://parsec.ro) website.
 
 ## File descriptions
 - `build-site.el`: this file is used, in Emacs, to export the content from .org files to .html; derived from [System Crafters](https://systemcrafters.net/publishing-websites-with-org-mode/building-the-site/);
-- `parsec.css`, based on ox-tufte.css, part of [ox-tufte](https://github.com/ox-tufte/ox-tufte) Emacs packages, modified to fit my own needs.
+- `parsec.css`: derived from `ox-tufte.css`, which is part of [ox-tufte](https://github.com/ox-tufte/ox-tufte) Emacs packages, modified to fit my own needs.
+- `preamble.html` is the HTML code for site logo, subtitle and main menu, used in every exported file.
 
 ## Prerequisites
 - Emacs (tested with 29.4 and 30.1);
