@@ -4,8 +4,8 @@
 Collection of files used to generate [parsec.ro](https://parsec.ro) website.
 
 ## File descriptions
-`build-site.el`: this file is used, in Emacs, to export the content from .org files to .html; derived from [System Crafters](https://systemcrafters.net/publishing-websites-with-org-mode/building-the-site/);
-`parsec.css`, based on ox-tufte.css, part of [ox-tufte](https://github.com/ox-tufte/ox-tufte) Emacs packages, modified to fit my own needs.
+- `build-site.el`: this file is used, in Emacs, to export the content from .org files to .html; derived from [System Crafters](https://systemcrafters.net/publishing-websites-with-org-mode/building-the-site/);
+- `parsec.css`, based on ox-tufte.css, part of [ox-tufte](https://github.com/ox-tufte/ox-tufte) Emacs packages, modified to fit my own needs.
 
 ## Prerequisites
 - Emacs (tested with 29.4 and 30.1);
