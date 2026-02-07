@@ -42,6 +42,7 @@
   :after org)
 
 ;; Loading all the variables needed in content
+;; Make sure you comment this out, you don't need it, it's just a collection of functions and variables for my website, it should build just fine without it.
 (load-file "func.el")
 
 ;; Customize the HTML output
